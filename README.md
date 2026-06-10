@@ -179,9 +179,10 @@ Enterprise AWS Foundation Release
 
 ## Author
 
-**Guruprakash Nagaraj**
+**Guruprakash Nagaraj**  
+Founder | Director, Saranyu Infotech
 
-Associate Director & CISO | IT & Systems
+Building enterprise-grade AWS Terraform modules, cloud automation frameworks, and security-focused infrastructure solutions.
 
 ---
 
